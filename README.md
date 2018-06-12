@@ -1,1 +1,2 @@
 # Manufacturing-Process-Failure-Classification-Model
+Component selection through a series of tests is critical in the manufacturing process of technology components.This selection process requires the components to pass a series of "specs“. Each selection spec is encoded in a specific test parameter matrix. However, relying solely on the selection "specs" is not enough to screen out failures. We propose the use of Machine Learning algorithms to classify failure modes based on prior process parameters as features.
